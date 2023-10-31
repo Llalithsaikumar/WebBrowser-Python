@@ -1,0 +1,4 @@
+PyQt5>=5.12.1
+PyQtWebEngine>=5.12.1
+os-sys>=2.0.0
+requests>=2.22.0
